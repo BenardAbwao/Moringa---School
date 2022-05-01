@@ -1,0 +1,164 @@
+* {
+    margin: 10px;
+    padding: 0px;
+    border: 10px;
+    font-family: 'Nunito', sans-serif;
+
+}
+  
+  
+  h4 {
+    color: mediumvioletred;
+    font-style: 'Nunito', sans-serif;
+  }
+  p {
+    color: red;
+  }
+  p {
+      color: black;
+  }
+  img {
+      height: 250px;
+      width: 300px;
+      align-items: center;
+  }
+  h1 {
+
+    color: #EC4067;
+
+    padding: 20px 0px 20px 0px;
+  }
+  img {
+    float: 0inline-end;
+    margin: 0px 10px 20px 0px;
+    padding: 10px;
+    
+  }
+  li {
+    overflow: auto;
+    clear: both;
+    
+  }
+  a {
+    display: block;
+  }
+  
+  a:hover {
+    color: blue;
+    font-size: 'Nunito', sans-serif;
+  }
+  .Mentors {
+      display: flex;
+      justify-content: space-between;
+  }
+  #bn {
+      
+      width: 300px;
+  }
+  a {
+      text-decoration: none;
+  }
+.quiz {
+    background-color: #EC4067;
+    color: white;
+    border: 1px solid #EC4067;
+    padding: 3px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 3px;
+    display: inline-block;
+}
+.name1 ::before {
+content: 'Rose Oketch';
+position: absolute;
+top: 40px; left: 40px;
+}
+.first {
+    display: flex;
+    justify-content: left;
+    h
+}
+
+.image1 {
+    height: 300px;
+    width: 400px;
+    margin
+}
+.bike {
+    display: flex;
+    justify-content: space-between;
+    margin-inline-start: 20px;
+    font-size: x-large;
+    display: flexbox;
+}
+.image9 {
+    height: 400px;
+    width: 700px;
+
+}
+.link {
+    color: #EC4067;
+    border: #EC4067;
+    padding: 3px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 3px;
+    display: inline-block;
+    border: solid #EC4067;
+}
+.link1 {
+    color: #EC4067;
+    border: #EC4067;
+    padding: 3px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 3px;
+    display: inline-block;
+    
+}
+h5 {
+    text-align: center;
+    display: inline-block;
+    background-color: gainsboro;
+    border: 50px solid gainsboro;
+    width: 1000px;
+    
+}
+.orientation {
+    display: flex;
+    justdify-content: center;
+}
+.meeting {
+    display: flex;
+    justify-content: center;
+}
+.grad {
+    display: flex;
+    justify-content: center; 
+}
+.link3 {
+    display: flex;
+    justify-content: right; 
+}
+.top {
+    border: 2px solid white;
+    padding: auto;
+    align-items: flex;
+}
+.top .navigation .heading {
+    font-weight: 200;
+    align-items: right;
+    color: black; 
+
+}
+.top .navigation {
+    display: flex;
+    justify-content: space-between;
+
+}
+.top .navigation .heading a:link {
+    color: black;
+}
+.top .navigation .heading a:visited {
+    color: black;
+}
