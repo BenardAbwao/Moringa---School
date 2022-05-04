@@ -182,3 +182,9 @@ h5 {
     height: 300px;
     text-align: center;
 }
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    
+}
+    
